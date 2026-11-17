@@ -1,10 +1,18 @@
 [
   {
     "title": "Музика на перерву 1",
-    "url": "https://raw.githubusercontent.com/AcorNoli/school-radio/main/september.mp3"
+    "url": "https://raw.githubusercontent.com/AcorNoli/school-radio/main/killer_queen.mp3"
   },
   {
     "title": "Музика на перерву 2",
-    "url": "https://raw.githubusercontent.com/AcorNoli/school-radio/main/killer_queen.mp3"
+    "url": "https://raw.githubusercontent.com/AcorNoli/school-radio/main/september.mp3"
+  }
+  {
+    "title": "Музика на перерву 3",
+    "url": "https://raw.githubusercontent.com/AcorNoli/school-radio/main/man_in_the_mirror.mp3"
+  }
+  {
+    "title": "Музика на перерву 4",
+    "url": "https://raw.githubusercontent.com/AcorNoli/school-radio/main/love_train.mp3"
   }
 ]
